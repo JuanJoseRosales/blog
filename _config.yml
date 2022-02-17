@@ -25,8 +25,7 @@ title:                 Juan Rosales
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Juan's blogs with a focus on personal lessons learned.
 
 # A shorter description for the sidebar.
 tagline:               Senior Software Engineer at Emburse
@@ -317,6 +316,7 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - s3_website.yml
 include:
   - .well-known
   - LICENSE.md
